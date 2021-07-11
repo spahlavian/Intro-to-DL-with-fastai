@@ -1,8 +1,8 @@
 Colab files containing the code snippets used in "Practical Deep Learning Tutorials" on the Rational Machines YouTube channel and IG page:
 
-IG: @rational_machines 
+Instagram: @rational_machines 
 
-YT: bit.ly/3rU7nKY
+YuoTube: bit.ly/3rU7nKY
 
 No licensing is required to use these codes, but a reference to Rational Machines IG page and/or YT channel is highly appreciated :))
 
